@@ -6,4 +6,4 @@
 
 ## About this repo
 
-The docs in this repo are built with DocFX. Source can be found in this [repo](https://github.com/meareal/DocFX-Src) and it is hosted for free with GitHub Pages.
+The docs in this repo are built with DocFX. Source can be found in this [repo](https://github.com/meareal/DocFX-Src) and it is hosted for free with GitHub Pages, click [here](https://meareal.github.io/DocFX-Docs/DocFX/) to check out the site.
