@@ -1,0 +1,17 @@
+{
+  "DocFX/index.html": {
+    "href": "DocFX/index.html",
+    "title": "Introduction | DocFX Sample Site",
+    "keywords": "Introduction Build your technical documentation site. Converts .NET assembly, XML code comment, REST API Swagger files and markdown into rendered HTML pages, JSON model or PDF files"
+  },
+  "DocFX/resources.html": {
+    "href": "DocFX/resources.html",
+    "title": "Resources | DocFX Sample Site",
+    "keywords": "Resources Coming soon"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "DocFX | DocFX Sample Site",
+    "keywords": "DocFX What is DocFX? DocFx is an open source project that helps buid documentation, with landing pages, markdown, API reference docs for .NET, REST API and more. How to get started? Click here to review DocFx Quick Start guide. Click here to review markdown syntax."
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "homepages": [],
+  "source_base_path": "C:/Users/Marcelo/source/repos/Containers/DocFX-Src/src",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "DocFX/index.md",
+      "output": {
+        ".html": {
+          "relative_path": "DocFX/index.html",
+          "hash": "m0H7DmOEvUAdR9gvIO0g/HZrwsn9oU63Gp9z/RBthDU="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "DocFX/resources.md",
+      "output": {
+        ".html": {
+          "relative_path": "DocFX/resources.html",
+          "hash": "79NB+8SyL9deGFHt5e5NLFsUJHh53Sw6WPHQwF3oizc="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "DocFX/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "DocFX/toc.html",
+          "hash": "24bBxT6au9Z4zejdWajiyleqgbd68mx6rFuwADf+s1I="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/logo.png",
+      "output": {
+        "resource": {
+          "relative_path": "images/logo.png"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html",
+          "hash": "LVWNEmbcx5rYWtFsZX5v0Mfasg/4F2gma9Y2kj6nah8="
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html",
+          "hash": "fes7yeKV0bwmG7ozGOrSrFo4nELJ/+n4IYQ1CInaDUU="
+        }
+      },
+      "version": ""
+    }
+  ],
+  "version_info": {},
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
